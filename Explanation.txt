@@ -1,0 +1,38 @@
+In this project, we will take the average
+of the first and second exam scores given
+below. Then, if our average is below 50,
+we will write a program indicating that
+we have failed, and if it is above 50, we
+will write a program that indicates that
+we have passed.
+
+                1.Grade       2.Grade
+Math            53            63
+Physic          85            74
+English         82            85
+Management      76            56
+
+If you use the above data you will get
+an output like this:
+
+	Grade_Average
+
+Please enter your Math 1.grade:	53
+Please enter your Math 2.grade:	63
+----------------------------
+Please enter your Physic 1.grade:	85
+Please enter your Physic 2.grade:	74
+----------------------------
+Please enter your English 1.grade:	82
+Please enter your English 2.grade:	85
+----------------------------
+Please enter your Management 1.grade:	76
+Please enter your Management 1.grade:	56
+----------------------------
+
+	Average=71
+	PASS
+
+	Program is OVER
+
+Process finished with exit code 0
